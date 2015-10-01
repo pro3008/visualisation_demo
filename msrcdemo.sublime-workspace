@@ -1,0 +1,1306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"path",
+				"pathData"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cur",
+				"curData"
+			],
+			[
+				"inter",
+				"interaction"
+			],
+			[
+				"ava",
+				"availability"
+			],
+			[
+				"edit",
+				"editorValue"
+			],
+			[
+				"meetin",
+				"meetings"
+			],
+			[
+				"initi",
+				"initiative"
+			],
+			[
+				"editor",
+				"editorObject"
+			],
+			[
+				"show",
+				"showEditor"
+			],
+			[
+				"proper",
+				"propertyOrder"
+			],
+			[
+				"fr",
+				"friends-data"
+			],
+			[
+				"update",
+				"updatePlot"
+			],
+			[
+				"arc",
+				"arcTweenUpdate"
+			],
+			[
+				"part",
+				"partition"
+			],
+			[
+				"outT",
+				"outTitle"
+			],
+			[
+				"over",
+				"overText"
+			],
+			[
+				"meet",
+				"meetings"
+			],
+			[
+				"mee",
+				"meetings"
+			],
+			[
+				"setInfo",
+				"setInfoTitle"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"hih",
+				"hightlightPart"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"un",
+				"unhighlightParts"
+			],
+			[
+				"high",
+				"hightlightPart"
+			],
+			[
+				"ance",
+				"ancestors"
+			],
+			[
+				"plot",
+				"plotData"
+			],
+			[
+				"meeting",
+				"meetings"
+			],
+			[
+				"network",
+				"networkPointsToVisual"
+			],
+			[
+				"new",
+				"networks"
+			],
+			[
+				"init",
+				"initiative"
+			],
+			[
+				"netw",
+				"networks"
+			],
+			[
+				"gro",
+				"groupMeetings"
+			],
+			[
+				"indiv",
+				"indivMeetings"
+			],
+			[
+				"gor",
+				"groupMeetings"
+			],
+			[
+				"netwo",
+				"networks"
+			],
+			[
+				"Jo",
+				"Johanna"
+			],
+			[
+				"faceboo",
+				"facebookmsg"
+			],
+			[
+				"drag",
+				"dragover"
+			],
+			[
+				"preventDefa",
+				"preventDefaultFileEvent"
+			],
+			[
+				"key",
+				"keyEventTime"
+			],
+			[
+				"ke",
+				"keyEventInterval"
+			],
+			[
+				"last",
+				"lastKeyEventTime"
+			],
+			[
+				"keyEve",
+				"keyEventTime"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"search",
+				"searchProgress"
+			],
+			[
+				"disab",
+				"disableNavigation"
+			],
+			[
+				"remove",
+				"removeModeEventHandlers"
+			],
+			[
+				"onHandle",
+				"onHandleDragStart"
+			],
+			[
+				"rem",
+				"removeModeEventHandlers"
+			],
+			[
+				"onPointDra",
+				"onPointDragStart"
+			],
+			[
+				"procee",
+				"proceedCurrentMode"
+			],
+			[
+				"pro",
+				"provenance"
+			],
+			[
+				"hour",
+				"hourCellMode"
+			],
+			[
+				"opaci",
+				"opacitySlider"
+			],
+			[
+				"tran",
+				"transparency"
+			],
+			[
+				"mapOptio",
+				"mapOptionsPanel"
+			],
+			[
+				"defin",
+				"defineProperty"
+			],
+			[
+				"setLa",
+				"setRangeLabels"
+			],
+			[
+				"tra",
+				"transparencySlider"
+			],
+			[
+				"fc",
+				"fc-time-slider"
+			],
+			[
+				"ena",
+				"enableRegionMode"
+			],
+			[
+				"enable",
+				"enableRegionMode"
+			],
+			[
+				"addGrid",
+				"addGridBtn"
+			],
+			[
+				"event",
+				"eventHandlerIds"
+			],
+			[
+				"toggle",
+				"togglePointMode"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"updateTime",
+				"updateTimeChartGraph"
+			],
+			[
+				"_",
+				"_resultsPanel"
+			],
+			[
+				"is",
+				"isEntityHovered"
+			],
+			[
+				"on",
+				"onUpdateProbe"
+			],
+			[
+				"time",
+				"timeChartControl"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"detailsTa",
+				"detailsTabContent"
+			],
+			[
+				"layersTabC",
+				"layersTabContent"
+			],
+			[
+				"detai",
+				"detailsTab"
+			],
+			[
+				"layer",
+				"layersTab"
+			],
+			[
+				"timE",
+				"timeSeriesAxis"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.htm",
+			"settings":
+			{
+				"buffer_size": 29433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "friends-data.json",
+			"settings":
+			{
+				"buffer_size": 8197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "friends-comments.txt",
+			"settings":
+			{
+				"buffer_size": 2422,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"sublimelin deb",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeline deb",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"disa",
+				"Package Syncing: Disable Syncing"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"Slinter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"no ",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"linteruser",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublimeuser",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sulinena",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"subsh",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublie",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/wwwroot/msrcdemo"
+	],
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/msrcdemo/css/foundation.min.css",
+		"/C/Tools/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/inetpub/wwwroot/msrcdemo/d3-test-data.json",
+		"/C/inetpub/wwwroot/msrcdemo/d3-sample-data.json",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/results.js",
+		"/D/New_Age/__moe/emb/enotic/r/цыпочка.txt",
+		"/C/Users/Michael/Desktop/flare.json",
+		"/C/Tools/SublimeText3/Data/Settings/SideBarEnhancements.json",
+		"/D/New_Age/__moe/emb/conf.txt",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/section-results.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/map.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/time-chart-control.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/tests/state-spec.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/map-entities.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/panels.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/map.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/_variables.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/geography.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/settings.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/client-state.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/section-time.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/packages.config",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/_variables.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/map.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/time.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/external/jquery.nanoscroller.min.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/request.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/utility.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/boilerplate.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/external/d3.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/jquery.plugins.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/external/d3transforms.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/main.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/section-results.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/section-about.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/common.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/area-selection.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/area-plot.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/area-selection.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/_mixins.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/tiles.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/fc2-depot.sublime-project",
+		"/C/Program Files/R/R-3.0.2/etc/Rprofile.site",
+		"/C/Tools/Far30/Rprofile.site",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/_mixins.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/main.less",
+		"/C/Users/Michael/AppData/Roaming/npm/jshint.cmd",
+		"/C/Tools/SublimeText3/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Tools/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/time-selectors.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/Frontend/FetchClimate2.html",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/external/rx.jQuery.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/common.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/tests/spec-helper.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/external/jasmine-html.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/main.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/controls/const-line-plot.js",
+		"/C/Tools/SublimeText3/Data/Packages/User/Builds/LESS.sublime-build",
+		"/C/Tools/SublimeText3/Data/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/H/laptop-data/AppData/Roaming/Sublime Text 2/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/boilerplate.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/scripts/layers.js",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/normalize.css",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/d3.less",
+		"/D/sources/depot/fc2/Main_VSTFMSRC_CS9134/src/NewUX/css/d3.css"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"availability",
+			"text",
+			"editor",
+			"hideEditor",
+			"function(",
+			"partition",
+			"p.",
+			"node",
+			"p",
+			"node.name",
+			"this._current",
+			"path.",
+			"path",
+			"path =",
+			"arcTweenData",
+			"pathData",
+			"- 25",
+			"hue",
+			"zoom",
+			"noUpdate",
+			"updatePlot",
+			"meeting",
+			"noUpdate",
+			"updatePlot",
+			"editor.setValue",
+			"friend",
+			"editorValue",
+			"friend.meetings",
+			"friend.networks",
+			"datum",
+			"300",
+			"initiative",
+			"h1,h2",
+			"'",
+			"4",
+			"3",
+			"partition",
+			"\"name\"",
+			"average time",
+			"svg",
+			"\"Time\"",
+			"Jonas",
+			"Adam",
+			"Anastasia",
+			"\"Zoe\"",
+			"\"Tim\"",
+			"Tim",
+			"Soomi",
+			"Pip",
+			"Marcel",
+			"Johanna",
+			"Rebecca",
+			"Lukas",
+			"Amina",
+			"Steph",
+			"Channing",
+			"Katie",
+			"Alexa",
+			"Henrik",
+			"datum",
+			"\"initiative\": null",
+			"initiative",
+			"points[i].name",
+			"points",
+			"ms",
+			"hightlightPart",
+			"center",
+			"title",
+			"Title",
+			"box",
+			"InfoBox",
+			"pct",
+			"percentage",
+			"Percentage",
+			"hideInf",
+			"showInfo",
+			"setPer",
+			"setInfo",
+			"hide",
+			"r ",
+			"r",
+			"pw",
+			"plot",
+			"Plot",
+			"plot",
+			"Plot",
+			"plot",
+			"Plot",
+			"plot",
+			".",
+			"1000",
+			"getAnces",
+			",",
+			"key",
+			"Arc",
+			"arc",
+			"Arc",
+			"arc",
+			"Arc",
+			"arc",
+			"root",
+			"luminance",
+			"hue",
+			"points",
+			"\"",
+			"nwp",
+			"networks",
+			"nws",
+			"p.",
+			"friend",
+			"points",
+			"point",
+			"points ",
+			"points",
+			"0",
+			"1",
+			"0",
+			"3",
+			"2",
+			"1",
+			"3",
+			"2",
+			"1",
+			"points",
+			"friend.meetings",
+			"groupMeetings",
+			",",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29433,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1456,
+										1456
+									],
+									[
+										8954,
+										8954
+									],
+									[
+										13997,
+										13997
+									],
+									[
+										23216,
+										23216
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								10942,
+								10942
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 557.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "friends-data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "friends-comments.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2337,
+								2359
+							],
+							[
+								2366,
+								2387
+							],
+							[
+								2394,
+								2417
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "msrcdemo.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"comme",
+				"friends-comments.txt"
+			],
+			[
+				"fo",
+				"css\\foundation.min.css"
+			],
+			[
+				"json",
+				"d3-sample-data.json"
+			],
+			[
+				"d3",
+				"scripts\\external\\d3.js"
+			],
+			[
+				"resul",
+				"scripts\\results.js"
+			],
+			[
+				"panel",
+				"scripts\\controls\\panels.js"
+			],
+			[
+				"client",
+				"scripts\\client-state.js"
+			],
+			[
+				"jqu",
+				"scripts\\jquery.plugins.js"
+			],
+			[
+				"ma-",
+				"scripts\\map-entities.js"
+			],
+			[
+				"panels",
+				"scripts\\controls\\panels.js"
+			],
+			[
+				"mapj",
+				"scripts\\map.js"
+			],
+			[
+				"state",
+				"scripts\\client-state.js"
+			],
+			[
+				"pae",
+				"scripts\\controls\\panels.js"
+			],
+			[
+				"geo",
+				"scripts\\geography.js"
+			],
+			[
+				"var",
+				"css\\_variables.less"
+			],
+			[
+				"varia",
+				"css\\_variables.css"
+			],
+			[
+				"resule",
+				"css\\section-results.less"
+			],
+			[
+				"resultless",
+				"css\\section-results.less"
+			],
+			[
+				"map.les",
+				"css\\map.less"
+			],
+			[
+				"sett",
+				"scripts\\settings.js"
+			],
+			[
+				"mapen",
+				"scripts\\map-entities.js"
+			],
+			[
+				"clien",
+				"scripts\\client-state.js"
+			],
+			[
+				"results",
+				"scripts\\results.js"
+			],
+			[
+				"cli",
+				"scripts\\client-state.js"
+			],
+			[
+				"main",
+				"scripts\\main.js"
+			],
+			[
+				"maple",
+				"css\\map.less"
+			],
+			[
+				"map",
+				"scripts\\map.js"
+			],
+			[
+				"geog",
+				"scripts\\geography.js"
+			],
+			[
+				"resu",
+				"scripts\\results.js"
+			],
+			[
+				"mapjs",
+				"scripts\\map.js"
+			],
+			[
+				"mapless",
+				"css\\map.less"
+			],
+			[
+				"u",
+				"scripts\\utility.js"
+			],
+			[
+				"area",
+				"scripts\\controls\\area-selection.js"
+			],
+			[
+				"mapent",
+				"scripts\\map-entities.js"
+			],
+			[
+				"vari",
+				"css\\_variables.less"
+			],
+			[
+				"mii",
+				"css\\_mixins.less"
+			],
+			[
+				"commo",
+				"css\\common.less"
+			],
+			[
+				"sectiores",
+				"css\\section-results.less"
+			],
+			[
+				"maile",
+				"css\\main.less"
+			],
+			[
+				"section",
+				"css\\section-about.less"
+			],
+			[
+				"pane",
+				"scripts\\controls\\panels.js"
+			],
+			[
+				"mape",
+				"scripts\\map-entities.js"
+			],
+			[
+				"resuless",
+				"css\\section-results.less"
+			],
+			[
+				"jq",
+				"scripts\\jquery.plugins.js"
+			],
+			[
+				"ma",
+				"scripts\\map.js"
+			],
+			[
+				"comm",
+				"css\\common.less"
+			],
+			[
+				"timecha",
+				"scripts\\controls\\time-chart-control.js"
+			],
+			[
+				"css",
+				"css\\boilerplate.css"
+			],
+			[
+				"res",
+				"css\\section-results.less"
+			],
+			[
+				"resultle",
+				"css\\section-results.less"
+			],
+			[
+				"packa",
+				"packages.config"
+			],
+			[
+				"fe",
+				"FetchClimate2.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Michael\\Documents\\GitHub\\lobster\\lobster.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

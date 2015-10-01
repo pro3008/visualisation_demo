@@ -1,0 +1,404 @@
+[
+  {
+    "name": "An",
+    "availability": {
+      "from": "2014-10-05",
+      "to": "2015-01-01"
+    },
+    "calls": 3,
+    "networks": {
+      "facebook": "moderate",
+      "whatsapp": "low",
+      "facebookmsg": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Zo", "St", "Am" ],
+        [ "Ti", "Lu", "Re", "Jo", "Ma", "Pi" ],
+        [ "Ti", "So" ]
+      ],
+      "types": [ "dinner+drinks", "breakfast", "dinner+drinks", "tea", "lunch" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "both"
+  },
+
+  {
+    "name": "Am",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01"
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Zo", "St", "An" ],
+        [ "Zo", "Ad" ]
+      ],
+      "types": [ "dinner+drinks", "lunch" ]
+    },
+    "time": 3,
+    "travels": 1,
+    "initiative": "other"
+  },
+
+  {
+    "name": "Lu",
+    "availability": {
+      "from": "2014-10-06",
+      "to": "2014-10-26",
+      "not": true
+    },
+    "calls": 0,
+    "networks": {
+      "sms": "moderate"
+    },
+    "meetings": {
+      "groups": [
+        [ "An", "Ti", "Re", "Jo", "Ma", "Pi" ],
+        [ "Ma", "Jo", "An", "Pi" ],
+        [ "Ma", "Jo", "An", "Pi", "Ti", "Jo" ]
+      ],
+      "types": [ "breakfast", "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 0,
+    "initiative": "both"
+  },
+
+  {
+    "name": "Zo",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01"
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "sms": "high",
+      "email": "high",
+      "facebookmsg": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "St", "Am", "An" ],
+        [ "Am", "Ad" ],
+        [ "St", "Ch", "Ka", "Al", "He", "Jo", "Pi", "Ma" ]
+      ],
+      "types": [ "dinner+drinks", "dinner+drinks", "barbecue+drinks", "tea" ]
+    },
+    "time": 4,
+    "travels": 2,
+    "initiative": "either"
+  },
+
+  {
+    "name": "St",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01"
+    },
+    "calls": 2,
+    "networks": {
+      "facebook": "moderate",
+      "sms": "high",
+      "whatsapp": "low",
+      "facebookmsg": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Am", "Zo", "An" ],
+        [ "He", "Ch", "Ka", "Ma", "Jo", "Pi" ],
+        [ "Zo", "Ch", "Ka", "Al", "He", "Jo", "Pi", "Ma" ]
+      ],
+      "types": [ "dinner+drinks", "dinner+drinks", "barbecue+drinks", "juice+picnic" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "both"
+  },
+
+  {
+    "name": "Ch",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01",
+      "not": true
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "instagram": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "He", "St", "Ka", "Ma", "Jo", "Pi" ],
+        [ "Zo", "St", "Ka", "Al", "He", "Jo", "Pi", "Ma" ]
+      ],
+      "types": [ "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "either"
+  },
+
+  {
+    "name": "La",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01",
+      "not": true
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "instagram": "low"
+    },
+    "meetings": null,
+    "time": 0,
+    "travels": 0,
+    "initiative": "nobody"
+  },
+
+  {
+    "name": "Ka",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01",
+      "not": true
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "instagram": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "He", "St", "Ch", "Ma", "Jo", "Pi" ],
+        [ "Zo", "St", "Ch", "Al", "He", "Jo", "Pi", "Ma" ]
+      ],
+      "types": [ "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "other"
+  },
+
+  {
+    "name": "Je",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01",
+      "not": true
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "sms": "low"
+    },
+    "meetings": null,
+    "time": 0,
+    "travels": 0,
+    "initiative": "nobody"
+  },
+
+  {
+    "name": "Al",
+    "availability": null,
+    "calls": 0,
+    "networks": {
+      "facebook": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Zo", "St", "Ch", "Ka", "He", "Jo", "Pi", "Ma" ]
+      ],
+      "types": [ "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 0,
+    "initiative": "other"
+  },
+
+  {
+    "name": "He",
+    "availability": null,
+    "calls": 0,
+    "networks": {
+      "facebook": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Ka", "St", "Ch", "Ma", "Jo", "Pi" ],
+        [ "Zo", "St", "Ch", "Al", "Ka", "Jo", "Pi", "Ma" ]
+      ],
+      "types": [ "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "other"
+  },
+
+  {
+    "name": "Da",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01",
+      "not": true
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low"
+    },
+    "meetings": null,
+    "time": 0,
+    "travels": 0,
+    "initiative": "nobody"
+  },
+
+  {
+    "name": "Mo",
+    "availability": null,
+    "calls": 0,
+    "networks": {
+      "facebook": "low"
+    },
+    "meetings": null,
+    "time": 0,
+    "travels": 0,
+    "initiative": "nobody"
+  },
+
+  {
+    "name": "Jo",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01",
+      "not": true
+    },
+    "calls": 1,
+    "networks": {
+      "facebook": "low",
+      "sms": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Ka", "St", "Ch", "Ma", "He", "Pi" ],
+        [ "Zo", "St", "Ch", "Al", "Ka", "He", "Pi", "Ma" ],
+        [ "An", "Ti", "Re", "Lu", "Ma", "Pi" ],
+        [ "Ma", "Lu", "An", "Pi" ],
+        [ "Ma", "Lu", "An", "Pi", "Ti", "Jo" ]
+      ],
+      "types": [ "dinner+drinks", "barbecue+drinks", "breakfast", "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "other"
+  },
+
+  {
+    "name": "Ma",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01"
+    },
+    "calls": 1,
+    "networks": {
+      "facebook": "moderate",
+      "facebookmsg": "moderate"
+    },
+    "meetings": {
+      "groups": [
+        [ "Ka", "St", "Ch", "Jo", "He", "Pi" ],
+        [ "Zo", "St", "Ch", "Al", "Ka", "He", "Pi", "Jo" ],
+        [ "An", "Ti", "Re", "Lu", "Jo", "Pi" ],
+        [ "Jo", "Lu", "An", "Pi" ],
+        [ "Jo", "Lu", "An", "Pi", "Ti", "Jo" ]
+      ],
+      "types": [ "dinner+drinks", "barbecue+drinks", "breakfast", "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "other"
+  },
+
+  {
+    "name": "Ad",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01"
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "sms": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Zo", "Am" ]
+      ],
+      "types": [ "lunch" ]
+    },
+    "time": 1,
+    "travels": 0,
+    "initiative": "either"
+  },
+
+  {
+    "name": "Pi",
+    "availability": {
+      "from": "2014-01-01",
+      "to": "2015-01-01"
+    },
+    "calls": 0,
+    "networks": {
+      "facebook": "low",
+      "facebookmsg": "low",
+      "sms": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Ka", "St", "Ch", "Jo", "He", "Ma" ],
+        [ "Zo", "St", "Ch", "Al", "Ka", "He", "Ma", "Jo" ],
+        [ "An", "Ti", "Re", "Lu", "Jo", "Ma" ],
+        [ "Jo", "Lu", "An", "Ma" ],
+        [ "Jo", "Lu", "An", "Ma", "Ti", "Jo" ]
+      ],
+      "types": [ "dinner+drinks", "barbecue+drinks", "breakfast", "dinner+drinks", "barbecue+drinks" ]
+    },
+    "time": 4,
+    "travels": 1,
+    "initiative": "other"
+  },
+
+  {
+    "name": "Su",
+    "availability": {
+      "from": "2014-10-06",
+      "to": "2015-01-01"
+    },
+    "calls": 5,
+    "networks": {
+      "facebook": "moderate",
+      "facebookmsg": "moderate",
+      "email": "high",
+      "gtalk": "low",
+      "sms": "moderate",
+      "whatsapp": "high",
+      "skype": "low"
+    },
+    "meetings": {
+      "groups": [
+        [ "Shruti" ]
+      ],
+      "types": [ "dinner+drinks", "tea" ]
+    },
+    "time": 2,
+    "travels": 0,
+    "initiative": "both"
+  }
+]

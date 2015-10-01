@@ -1,0 +1,54 @@
+/**
+ * Friends dataset.
+ * Each friend has the following fields and its possible values.
+ *
+ * @param  {String} name         Name of friend.
+ *
+ * @param  {Object} availability From and To dates in YYYY-MM-DD format of availability or null.
+ *                               Or From and To dates of non-availability if "not" flag is provided.
+ * @example                      { "from": "2014-10-05", "to": "2015-01-01" }
+ * @example                      { "from": "2014-10-06", "to": "2014-10-26", "not": true }
+ *
+ * @param  {Number} calls        Non-negative integer number of calls.
+ *
+ * @param  {Object} networks     List of networks and levels of communication in them.
+ *                               Possible networks: "facebook", "facebookmsg", "whatsapp",
+ *                                                  "instagram", "sms", "gtalk", "skype", "email".
+ *                               Possible levels of communication: "low", "moderate", "high".
+ * @example                      { "facebook": "moderate", "whatsapp": "low", "facebookmsg": "low" }
+ *
+ * @param  {Object} meetings     An array of arrays with names of other friends involved in group meetings,
+ *                               and a list of types of meetings (group meetings first).
+ *                               Number of meetings is deducible from this information.
+ * @example                      {
+ *                                 "groups": [ [ "Zoe", "Steph", "Amina" ], [ "Tim", "Soomi" ] ],
+ *                                 "types": [ "breakfast", "dinner+drinks", "tea" ]
+ *                               }
+ *
+ * @param  {Number} time         Average time spent together in hours (non-negative integer number).
+ *
+ * @param  {Number} travels      Number of travels to the friend in other city.
+ *
+ * @param  {String} initiative   Who ititiated a meeting?
+ *                               Possible values: "either", "both", "other".
+ */
+
+/**
+ * Counting rules.
+ *
+ * 0. Initially points = 0.
+ * 1. If a friend is not available then points = 0.
+ * 2. points += calls
+ * 3. For each network:
+ *    points += 1 if "low"
+ *    points += 2 if "moderate"
+ *    points += 3 if "high"
+ * 4. For each meeting:
+ *    points += 2 + 1 / F, where F is a number of friends in a meeting
+ * 5. points += time
+ * 6. points += travels
+ * 7. For initiative:
+ *    points += 1 if "other"
+ *    points += 2 if "both"
+ *    points += 3 if "either"
+ */
